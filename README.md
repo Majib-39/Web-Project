@@ -1,9 +1,9 @@
 # Web-Project
-This web project develop by Goal Crushers team.
-Team mate:
-1.Majibur Rahman Sarker
-Dept.of CSE(Jagannath University)
-1.Akash Mia
-Dept.of CSE(Jagannath University)
+<b>This web project develop by Goal Crushers team.<br>
+Team mate:<br>
+1.Majibur Rahman Sarker<br>
+Dept.of CSE(Jagannath University)<br>
+1.Akash Mia<br>
+Dept.of CSE(Jagannath University)<br>
 
-**Author-Goal Crushers
+**Author-Goal Crushers</b>
